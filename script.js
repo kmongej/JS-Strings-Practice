@@ -14,4 +14,4 @@ function esPalindromo(cadena) {
     return cadena == reverse.join('') ? 'Si es palindromo' : 'No es palindromo'
 }
 
-console.log(esPalindromo('Amor a roma'))
+console.log(esPalindromo('Amor a roma'));
